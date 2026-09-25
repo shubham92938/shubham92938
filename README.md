@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="https://pin.it/5PAoteKpU" width="100%" />
 </p>
