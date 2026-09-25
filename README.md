@@ -1,50 +1,49 @@
-<!-- ===================== HEADER ===================== -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:006D77&height=220&section=header&text=SHUBHAM%20PATIDAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=60&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:006D77&height=220&section=header&text=SHUBHAM%20PATIDAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=83C5BE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Projects;Learning+%2B+Building+Every+Day"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=83C5BE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Projects;Learning+%2B+Building+Every+Day"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham92938&label=Profile%20Views&color=006D77&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shubham92938&label=PROFILE%20VIEWS&color=006D77&style=flat-square" />
 </p>
 
-
-<!-- ===================== ABOUT ME ===================== -->
+---
 
 ## 🔗 About Me
 
-<table>
-<tr>
+I'm a Full Stack Developer from India 🇮🇳 focused on building modern web and mobile applications.
 
-<td width="55%" valign="top">
+- 💻 JavaScript developer
+- ⚛️ React & Next.js
+- ⚙️ Node.js & Express
+- 🗄️ MongoDB & Firebase
+- 📱 React Native
+- 🧠 Currently improving DSA & backend development
+- 🚀 Building real-world projects
+- 🎯 Always learning something new
+
+### 👨‍💻 Developer Profile
 
 ```js
 const shubham = {
   name: "Shubham Patidar",
-
   role: "Full Stack Developer",
-
   location: "India 🇮🇳",
 
-  languages: [
-    "JavaScript",
-    "HTML",
-    "CSS"
-  ],
-
   frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript",
     "React",
-    "Next.js",
-    "Tailwind CSS"
+    "Next.js"
   ],
 
   backend: [
@@ -52,7 +51,7 @@ const shubham = {
     "Express.js"
   ],
 
-  databases: [
+  database: [
     "MongoDB",
     "Firebase"
   ],
@@ -63,118 +62,214 @@ const shubham = {
 
   currentlyLearning: [
     "DSA",
-    "Next.js",
     "Backend Development"
   ],
 
-  interests: [
-    "Web Development",
-    "Mobile Development",
-    "Open Source"
-  ],
-
-  motto: "Build. Learn. Improve."
+  goal: "Build useful products and become a stronger software engineer."
 };
-</td> <td width="45%" valign="middle"> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=83C5BE&center=true&vCenter=true&width=420&lines=Code.+Build.+Learn.+Repeat.;Turning+ideas+into+real+products.;Always+learning+something+new.;Building+one+project+at+a+time." /> </p> <br> <p align="center">
+```
 
-💻 Web Development
+---
 
-📱 React Native
+## 🌐 Connect With Me
 
-⚙️ Backend Development
-
-🧠 JavaScript & DSA
-
-🚀 Real World Projects
-
-</p> </td> </tr> </table> <!-- ===================== CONNECT ===================== -->
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/shubham92938"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.youtube.com/"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p> <!-- ===================== TECH STACK ===================== -->
-⚡ Tech Stack
-Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> </p>
-Backend & Database
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /> </p>
-Tools & Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" /> </p>
-Mobile Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=react" /> </p> <!-- ===================== PROJECTS ===================== -->
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top"> <h3>🛕 TirthSthal</h3> <p> A temple discovery platform designed to help users explore temples, locations and detailed information. </p>
-
-<strong>Tech Stack</strong>
-
-<p> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> </p>
-
-<strong>Features</strong>
-
-<ul> <li>Temple discovery</li> <li>Temple details</li> <li>Location & coordinates</li> <li>Admin panel</li> <li>REST API</li> <li>MongoDB backend</li> </ul> </td> <td width="50%" valign="top"> <h3>🛒 FreshMart</h3> <p> A modern grocery shopping platform focused on product discovery, search and shopping functionality. </p>
-
-<strong>Tech Stack</strong>
-
-<p> <code>React</code> <code>JavaScript</code> <code>MongoDB</code> </p>
-
-<strong>Features</strong>
-
-<ul> <li>Product search</li> <li>Categories</li> <li>Filtering & sorting</li> <li>Shopping cart</li> <li>Wishlist</li> <li>Orders</li> <li>Responsive UI</li> </ul> </td> </tr> </table> <!-- ===================== CURRENTLY BUILDING ===================== -->
-🧩 Currently Building
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🚀 Full Stack Applications                            │
-│                                                         │
-│   ⚛️  React / Next.js                                   │
-│                                                         │
-│   ⚙️  Node.js / Express                                │
-│                                                         │
-│   🗄️  MongoDB / Firebase                                │
-│                                                         │
-│   📱 React Native                                      │
-│                                                         │
-│   🧠 JavaScript + DSA                                  │
-│                                                         │
-│   🎯 Becoming a stronger software engineer             │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-📊 GitHub Analytics
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shubham92938&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<a href="https://github.com/shubham92938">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham92938&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p> <!-- ===================== STREAK ===================== -->
-🔥 GitHub Streak
+<a href="https://www.youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
+</p>
+
+### Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛕 TirthSthal
+
+A temple discovery platform designed to help users explore temples, locations and detailed information.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+**Features**
+
+- 🛕 Temple discovery
+- 📍 Location & coordinates
+- 📖 Temple details
+- 🔐 Admin panel
+- 🔌 REST API
+- 🗄️ MongoDB backend
+
+---
+
+### 🛒 FreshMart
+
+A modern grocery shopping platform focused on product discovery and shopping functionality.
+
+**Tech Stack**
+
+`React` `JavaScript` `MongoDB`
+
+**Features**
+
+- 🔍 Product search
+- 📦 Product categories
+- 🎯 Filtering & sorting
+- 🛒 Shopping cart
+- ❤️ Wishlist
+- 📋 Orders
+- 📱 Responsive UI
+
+---
+
+## 🧩 Currently Building
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=shubham92938&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/DSA-Learning-006D77?style=for-the-badge"/>
 
-</p> <!-- ===================== ACTIVITY GRAPH ===================== -->
-📈 Contribution Activity
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham92938&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=shubham92938&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-</p> <!-- ===================== TROPHIES ===================== -->
-🏆 GitHub Trophies
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham92938&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubham92938&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%" />
+<img
+  src="https://streak-stats.demolab.com/?user=shubham92938&theme=tokyonight&hide_border=true"
+  width="70%"
+/>
 
-</p> <!-- ===================== CONTRIBUTION SNAKE ===================== -->
-🐍 Contribution Snake
+</p>
+
+---
+
+## 📈 Contribution Activity
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shubham92938&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+/>
 
-</p> <!-- ===================== GITHUB PROFILE ===================== -->
-💻 My GitHub
-<p align="center"> <a href="https://github.com/shubham92938"> <img src="https://img.shields.io/badge/Explore%20My%20Repositories-006D77?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <!-- ===================== FOOTER ===================== --> <br> <p align="center">
+</p>
 
-<b>💻 Code. Build. Learn. Repeat.</b>
+---
 
-<br><br>
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=shubham92938&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
+  width="95%"
+/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</p>
+
+---
+
+## 💻 Explore My GitHub
+
+<p align="center">
+
+<a href="https://github.com/shubham92938">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-006D77?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 Code. Build. Learn. Repeat.
+
+<br>
 
 <sub>Building the future one commit at a time.</sub>
 
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006D77,50:164e63,100:0f172a&height=120&section=footer" width="100%" /> </p> ```
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:006D77,50:164e63,100:0f172a&height=120&section=footer"
+    width="100%"
+  />
+</p>
